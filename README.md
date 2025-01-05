@@ -1,6 +1,6 @@
 # Financial Planner Tool
 
-A comprehensive Excel-based financial planning tool to manage income, expenses, and budgets effectively.
+A comprehensive Excel-based financial planning tool to manage income, expenses, and goals effectively
 
 ## Features
 - Income and expense tracking
@@ -8,5 +8,5 @@ A comprehensive Excel-based financial planning tool to manage income, expenses, 
 - Goal budgeting & financial advice
 
 ## How to Use
-1. Download `FinancialPlanner.xlsx`.
-2. Open the file and enable macros.
+1. Download `FinancialPlanner.xlsx`
+2. Open the file and enable macros!

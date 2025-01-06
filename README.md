@@ -20,7 +20,7 @@ A robust Excel-based financial planner designed to help users manage their finan
 
 ### Installation 💾
 1. Clone or download this repository.
-2. Open `FinancialPlanner.xlsx` in Excel.
+2. Open `FinancialPlanner.xlsm` in Excel.
 3. Enable macros when prompted to allow full functionality of the financial tool.
 
 ### Usage 🛠️
